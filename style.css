@@ -6,7 +6,7 @@ margin: 0px;
 
 header{
     text-align: center;
-    border-bottom: slategray;
+    border-bottom: solid 3px slategray;
     padding: 15px;
     font-size: medium;
 }
@@ -20,7 +20,14 @@ h1{
 }
 
 elemente.style {
+margin: 80px;
+}
 
+section{
+    padding-bottom: 50px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
 }
 
 section {
