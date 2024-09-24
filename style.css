@@ -18,3 +18,13 @@ h1{
 .roxo {
     width: 50%;
 }
+
+elemente.style {
+
+}
+
+section {
+    display: block;
+    unicode-bidi: isolate;
+
+    }
