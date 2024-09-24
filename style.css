@@ -1,12 +1,12 @@
 body {
 background-color: rgba(56, 142, 227, 0.726);
-border: solid 5px black;
-margin: 0px;
+border: solid 3px black;
+margin: 2px;
 }
 
 header{
     text-align: center;
-    border-bottom: solid 3px slategray;
+    border-bottom: solid 3px rgba(12, 47, 121, 0.884);
     padding: 15px;
     font-size: medium;
 }
@@ -29,9 +29,3 @@ section{
     display: flex;
     justify-content: center;
 }
-
-section {
-    display: block;
-    unicode-bidi: isolate;
-
-    }
