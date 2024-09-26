@@ -2,8 +2,6 @@ body {
 background-color: rgba(56, 142, 227, 0.726);
 border: solid 3px black;
 margin: 2px;
-display: flex;
-justify-content: center;
 }
 
 header{
@@ -28,4 +26,6 @@ margin: 80px;
 section{
     padding-bottom: 50px;
     padding-top: 50px;
+    display: flex;
+    justify-content: center;
 }
