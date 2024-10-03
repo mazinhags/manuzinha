@@ -2,11 +2,11 @@ body {
 background-color: rgba(56, 142, 227, 0.726);
 border: solid 3px black;
 margin: 2px;
+text-align: center;
 }
 
 header{
     text-align: center;
-    border-bottom: solid 3px rgba(12, 47, 121, 0.884);
     padding: 15px;
     font-size: medium;
 }
@@ -24,4 +24,8 @@ nav a{
     padding-top: 50px;
     display: flex;
     justify-content: center;
+}
+
+h1{
+    border-bottom: 3px rgb(0, 0, 0);
 }
